@@ -1,0 +1,334 @@
+{
+    'Status': 'Ok',
+    'StatusMessage': None,
+    'Token': 'ff19aeec-b9e5-47de-9708-e7641ac0354a'
+}
+{
+    'OperationResult': {
+        'HasErrors': False,
+        'HasWarnings': False,
+        'Messages': {
+            'OperationMessage': [
+                {
+                    'Code': 'OK',
+                    'LogEntryId': None,
+                    'Message': 'OK',
+                    'PropertyName': None,
+                    'Severity': 'Information'
+                }
+            ]
+        },
+        'PagingInfo': {
+            'CurrentPage': 1,
+            'PageSize': 10,
+            'PageTotal': 568,
+            'TotalItems': 5679
+        },
+        'RequestNumber': None,
+        'Success': True
+    },
+    'Results': {
+        'EmployeePerson': [
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '094466',
+                'FirstName': 'Larry',
+                'LastName': 'Everett',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '094466'
+                            },
+                            'FirstName': 'Larry',
+                            'FormerLastName': None,
+                            'LastName': 'Everett',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '283584374',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '106845',
+                'FirstName': 'Nathan',
+                'LastName': 'Cochran',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '106845'
+                            },
+                            'FirstName': 'Nathan',
+                            'FormerLastName': None,
+                            'LastName': 'Cochran',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '282700632',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '111698',
+                'FirstName': 'Joseph',
+                'LastName': 'Kern',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '111698'
+                            },
+                            'FirstName': 'Joseph',
+                            'FormerLastName': None,
+                            'LastName': 'Kern',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '291427813',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': 'JR',
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '112333',
+                'FirstName': 'Edward',
+                'LastName': 'Hirsch',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '112333'
+                            },
+                            'FirstName': 'Edward',
+                            'FormerLastName': None,
+                            'LastName': 'Hirsch',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '276640799',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': 'JR',
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '115111',
+                'FirstName': 'Jason',
+                'LastName': 'Aubrey',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '115111'
+                            },
+                            'FirstName': 'Jason',
+                            'FormerLastName': None,
+                            'LastName': 'Aubrey',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '453554156',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '121212',
+                'FirstName': 'Eddy',
+                'LastName': 'Jarrell',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '121212'
+                            },
+                            'FirstName': 'Eddy',
+                            'FormerLastName': None,
+                            'LastName': 'Jarrell',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '300766769',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '124559',
+                'FirstName': 'Larry',
+                'LastName': 'Callaway',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '124559'
+                            },
+                            'FirstName': 'Larry',
+                            'FormerLastName': None,
+                            'LastName': 'Callaway',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '302764995',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': 'JR',
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '132681',
+                'FirstName': 'Michael',
+                'LastName': 'Huey',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '132681'
+                            },
+                            'FirstName': 'Michael',
+                            'FormerLastName': None,
+                            'LastName': 'Huey',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '291688090',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '134745',
+                'FirstName': 'Brian',
+                'LastName': 'Blosser',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '134745'
+                            },
+                            'FirstName': 'Brian',
+                            'FormerLastName': None,
+                            'LastName': 'Blosser',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '272688723',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            },
+            {
+                'CompanyCode': 'PTL',
+                'EmployeeNumber': '135886',
+                'FirstName': 'Clark',
+                'LastName': 'Williams',
+                'People': {
+                    'Person': [
+                        {
+                            'AlternateEmailAddress': None,
+                            'EmailAddress': None,
+                            'EmployeeIdentifier': {
+                                'CompanyCode': 'PTL',
+                                'EmployeeNumber': '135886'
+                            },
+                            'FirstName': 'Clark',
+                            'FormerLastName': None,
+                            'LastName': 'Williams',
+                            'MiddleName': None,
+                            'PreferredFirstName': None,
+                            'Prefix': None,
+                            'SSN': '279645779',
+                            'SelfServiceProperties': {
+                                'KeyValueOfstringstring': []
+                            },
+                            'Suffix': None,
+                            'SuppressSSN': True
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
